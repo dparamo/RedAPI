@@ -1,0 +1,1 @@
+Este proyecto incluye la entrega de la prueba técnica solicitada, diseñada para demostrar mis habilidades y conocimientos en el desarrollo requerido. Aquí se encuentran implementaciones claras, funcionales y organizadas que cumplen con los criterios establecidos en la documentación inicial. ¡Gracias por la oportunidad!
